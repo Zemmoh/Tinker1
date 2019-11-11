@@ -1,1 +1,3 @@
 # Tinker1
+
+This is my first repository tinker1. The beginning of a legacy...
